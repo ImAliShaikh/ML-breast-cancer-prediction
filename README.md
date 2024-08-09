@@ -1,1 +1,1 @@
-# ML-breast-cancer-prediction
+Prediction model for breast cancer using machine learning, based on Tumor Size and Progesterone Status data. This repository contains code for training and evaluating the model, offering a straightforward approach to predicting breast cancer outcomes
